@@ -1,0 +1,13 @@
+Chapter 1
+- Goals
+	- Foundation for rest of the book
+	- Write your first search algorithm (binary search)
+	- Learn how to talk about the running time of an algorithm (Big O notation)
+- Sometimes using a different data structure can make a big difference
+- Learn to make a recommendations system using k-nearsest neighbors (KNN)
+- Some problem's aren't solvable in a timely manner! In that case, approximate
+- Binary Search
+	- input is a sorted list of elements... very important that it is sorted
+	- For any list of n, binary search will take log(sub2)n steps to run
+	- Simple search takes n steps
+	- Logs are the inverse of exponentials

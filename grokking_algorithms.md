@@ -1,4 +1,4 @@
-Chapter 1
+Chapter 1 - ADD TITLE HERE
 - Goals
 	- Foundation for rest of the book
 	- Write your first search algorithm (binary search)

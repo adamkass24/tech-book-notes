@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "grokking_algorithms"
             }
+          },
+          {
+            "id": "fca565cdcc7e9a17",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69dae9dbfdc657b8",
+  "active": "fca565cdcc7e9a17",
   "lastOpenFiles": [
     "grokking_algorithms.md"
   ]

@@ -1,0 +1,6 @@
+- Preface - Aha!
+	- Consequences of infrequent, slow, painful software releases
+		- SLA penalties and failures
+		- customer-impacting outages
+		- Layoffs of most talented and experienced staff
+		- results in unplanned work and firefighting

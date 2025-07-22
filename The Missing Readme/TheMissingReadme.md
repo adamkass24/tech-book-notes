@@ -1,0 +1,95 @@
+- The Journey Ahead
+	- Technical Knowledge
+		- You know CS fundamentas, how to use IDEs, build systems, debuggers, and testing frameworks.
+		- Familiar with continuous integration, metrics and monitoring, configuration, and packaging systems.
+		- Proactively create and improve code used for testing.
+		- ***YOU CONSIDER OPERATIONS WHEN MAKING ARCHITECTURAL DECISIONS***
+	- Execution
+		- You create value by solving problems with code
+		- You understand how our work benefits the business
+		- You write, test, review, and deploy code
+		- You are proactive and dependable
+		- You participate in tech talks, reding groups, interviews, and presentations
+	- Communication - MY BIGGEST OPPORTUNITY
+		- Communicate clearly in both written and verbal form
+		- Give and receive feedback effectively
+		- Ask for help and get clarification in ambiguous situations
+		- You write clear design documents and invite feedback
+			- my problem is i need to take time to evaluate and incorporate feedback, many trials
+		- Patient and empathetic when dealing with others
+	- Leadership
+		- You work independently on ***well-scoped work***
+		- Learn from mistakes quickly
+		- Actively participate in planning
+		- Help onboarding
+		- Meaningful feedback to manager
+	- A Map for Your Journey
+		- Peak Newb
+			- Get familiar with company and team / process
+			- Set up dev environment and access
+			- Read docs and initial 1:1's with teammates
+			- Fill in documentation gaps as you complete onboarding
+			- Use the IDE your team uses. If you don't know it, invest in tutorials.
+			- Configure your IDE to team code formatting conventions - ask what they are, import config if possible or ask how to apply them
+			- Get added by manager to team / company meetings and stand ups
+		- Ramp-Up River
+			- Gain access to codebase. Look at pull requests and reviews, focus on top recent contributors. Be skeptical but eager
+			- Sign up for tech talks, brown bags, reading groups, and mentorship programs
+		- Cape Contributor
+			- Deploying production-grade code and testing well
+			- You are now helping teammates
+		- Operations Ocean
+			- Testing
+			- Build
+			- Release
+			- Deployment
+			- Rollout
+			- Debug live software using metrics, logs, and trace tools
+			- This is the point where you enter on-call
+		- Competence Cove
+			- You will write technical design docs and help with project planning
+			- Explore trade-offs and plan for your system to evolve over time
+			- Learn to balance regular work with necessary maintenance and refactoring
+- Getting to Conscious Competence
+	- Four stages: Martin M. Broadwell, "Teaching for Learning"
+		- Unconscious incompetence
+			- unable to perform task correctly, unaware of gap
+		- Conscious Incompetence
+			- unable to do, aware of gap
+		- Conscious Competence
+			- can perform task with effort
+		- Unconscious Competence
+			- can perform task effortlessly
+	- Learning to Learn
+		- Front-Load Your Learning
+		- Learn by Doing
+		- Experiment with Code
+		- Read
+		- Watch Presentations
+		- Attend Meetups and Conferences (Sparingly)
+		- Shadow and Pair with Experienced Engineers
+		- Experiment with Side Projects
+	- Asking Questions
+		- Do Your Research
+		- Timebox
+		- Show Your Work
+		- Don't Interrupt
+		- Prefer Multicast, Asynchronous Communication
+		- Batch your Synchronous Requests
+	- Overcoming Growth Obstacles
+		- Imposter Syndrome
+		- The Dunning-Kruger Effect
+	- Do's and Don'ts
+	- Level Up
+- Working with Code
+- Writing Operable Code
+- Managing Dependencies
+- Testing
+- Code Reviews
+- Delivering Software
+- Going On-Call
+- Technical Design Process
+- Creating Evolvable Architectures
+- Agile Planning
+- Working with Managers
+- Navigating Your Career

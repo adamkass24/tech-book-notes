@@ -1,0 +1,13 @@
+- Operable code has built in protection, diagnostics, and controls.
+- Defensive programming - safe code takes advantage of compile-time validation to prevent runtime falures.
+	- Resilient code uses exception-handling best practices and handles failures gracefully
+	- Avoid null values
+		- especially as outputs of functions
+	- Make variables immutable
+		- `final` in java
+		- `val` instead of `var` in scala
+		- `let` in rust instead of `let mut`
+		- In python, consider making [[data classes]] immutable!
+	- Use type hinting and static type checkers
+	- Validate inputs
+		- reject bad input as early as possible!0 

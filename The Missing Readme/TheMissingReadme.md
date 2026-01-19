@@ -97,7 +97,10 @@
 	- Level Up
 - Working with Code
 	- Fancy new frameworks are cool, but boring tech is good. Their failure modes are well known by many!
-- Writing Operable Code
+- 
+- 
+- 
+
 - Managing Dependencies
 - Testing
 - Code Reviews

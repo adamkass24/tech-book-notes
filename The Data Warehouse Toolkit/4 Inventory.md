@@ -1,4 +1,4 @@
-This is an _excellent_ question — and it hits one of the hardest, least-discussed problems in large-scale analytical modeling.
+ This is an _excellent_ question — and it hits one of the hardest, least-discussed problems in large-scale analytical modeling.
 
 You’re talking about the **dense time–item–location spine problem**:
 

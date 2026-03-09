@@ -11,3 +11,9 @@
 	- Use type hinting and static type checkers
 	- Validate inputs
 		- reject bad input as early as possible!0 
+- Logging
+	- Use log levels (i.e. ERROR vs. INFO) to reduce volume and hint at severity
+		- Trace - an extremely fine level of detail that is only turned on for specific packages or classes
+			- rarely used outside of development
+			- if you use traces frequently, you should use a debugger to step through code instead
+		- INFO - used to tell us something about normal operation, usually milestones. Don't be greedy here

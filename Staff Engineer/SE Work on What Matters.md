@@ -1,3 +1,13 @@
+---
+date: 2025-05-19
+type: reference
+repo: tech-book-notes
+origin: curated
+threads: [career, work]
+decisions: []
+open_loops: []
+---
+
 4hrs / Week to Look to the Future / Strategize
 4 Hrs / Week to build / develop the team around me
 2Hrs/ week to REFLECT on those two things and get more efficient in them

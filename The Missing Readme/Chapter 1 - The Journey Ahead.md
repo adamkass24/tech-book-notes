@@ -1,3 +1,15 @@
+---
+date: 2026-06-19
+type: reference
+repo: tech-book-notes
+origin: curated
+threads: [career, learning, mindset]
+decisions: []
+open_loops:
+  - Communication is self-assessed as the biggest opportunity of the four competency areas
+  - Incorporating feedback on design documents needs deliberate time and repetition, which has not been scheduled
+---
+
 - The Journey Ahead
 	- Technical Knowledge
 		- You know CS fundamentas, how to use IDEs, build systems, debuggers, and testing frameworks.

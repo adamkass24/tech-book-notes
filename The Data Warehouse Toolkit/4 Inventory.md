@@ -1,3 +1,14 @@
+---
+date: 2026-02-21
+type: reference
+repo: tech-book-notes
+origin: curated
+threads: [learning, work]
+decisions: []
+open_loops:
+  - Chapter 4 of the Kimball toolkit is unfinished -- the `#IAMHERE` marker at Inventory Periodic Snapshot is the resume point, and everything below it is an unannotated chapter outline
+---
+
 Value Chain Introduction
 - The value chain identifies the natural, logical flow of an organization’s primary activities
 	- This is clearer for manufacturing - and some companies may have multiple value chains, one for each process

@@ -1,130 +1,92 @@
-### 1. The Core Philosophy
-
-- **“Your mind is for big‑picture thinking.”**  
-    Keep your brain free of clutter by moving every commitment to a reliable external system.
-- **“Work in the present, not in the past.”**  
-    Focus on _what to do now_, not on “what I should have done yesterday.”
-
+---
+date: 2026-07-26
+type: reference
+repo: tech-book-notes
+origin: curated
+threads: [mindset, work]
+decisions: []
+open_loops: []
 ---
 
-### 2. The Five Workflow Stages
+# Getting Things Done (David Allen)
 
-|Stage|What It Means|Key Questions|
-|---|---|---|
-|**Collect**|Capture _everything_ that’s on your mind.|“What are the items that demand my attention?”|
-|**Process**|Decide the next action for each item.|“Is it actionable? If so, what’s the very next physical step?”|
-|**Organize**|Store decisions in the right lists.|“Where should this item belong (Next Actions, Projects, Waiting‑For, Someday‑Maybe, Calendar)?”|
-|**Review**|Weekly audit of the system.|“Is the list up‑to‑date? Are priorities correct?”|
-|**Do**|Execute the actions.|“Which next action is most appropriate right now?”|
+## The core problem GTD solves
 
----
+An open commitment you're tracking in your head costs attention whether or not you're
+working on it — Allen calls this "ring of fire" stress. The mind is good at having ideas,
+bad at storing them reliably. GTD's whole mechanism is: get everything out of your head and
+into a system you trust completely, so your brain stops re-litigating "did I forget
+something" and can actually think about the work in front of it. The test of whether the
+system is working is not how organized it looks — it's whether your mind is actually quiet.
 
-### 3. The 5 Core Tools
+## The five-step workflow
 
-|Tool|Purpose|How to Use|
-|---|---|---|
-|**Inbox**|All incoming items.|Empty it _every day_ by moving items to Process.|
-|**Next Actions**|Concrete, single‑step tasks.|List them in a “Next Actions” list; they’re what you actually do.|
-|**Projects**|Anything that needs more than one step.|Keep a separate “Projects” list; every project has at least one Next Action.|
-|**Waiting‑For**|Tasks you’ve delegated.|Store the contact and the deliverable; review monthly to follow up.|
-|**Someday‑Maybe**|Ideas that aren’t urgent.|Keep a list of “Someday” items; review them occasionally.|
+1. **Capture** — anything with your attention (task, idea, worry, commitment) goes into an
+   inbox immediately, not into memory. The core discipline is capturing *everything*,
+   indiscriminately — the moment you start filtering at capture time ("this one's too
+   small to write down"), the trust in the system breaks and you're back to using your head
+   as the backup store.
+2. **Clarify** — for each captured item, ask: is this actionable?
+   - Not actionable -> trash it, file it as reference, or park it on a **Someday/Maybe**
+     list (things you might do, not committed to).
+   - Actionable -> what is the **very next physical action**? Not "plan the trip" — "call
+     the airline" or "open the booking site." This is the single most-cited failure point:
+     most stalled to-do lists are stalled because the item on them isn't actually a next
+     action, it's a project wearing a next-action costume.
+3. **Organize** — put the decision somewhere it will resurface at the right time:
+   - A single next action -> a **context list** (calls, errands, at-computer, home).
+   - Something with more than one step -> the **Projects list** (just the project name/
+     outcome — every project needs at least one next action living on a context list, or
+     it's stalled by definition).
+   - Delegated -> **Waiting For**, with what you're waiting on and from whom.
+   - Time- or date-specific -> the **calendar**, and only things that truly belong on a
+     specific day — not a wish-list of "would like to do this week" clutter.
+4. **Reflect** — the **Weekly Review**: empty every inbox, reprocess Waiting-For and
+   Someday/Maybe, walk every open project and confirm it has a live next action, look ahead
+   at the calendar. This is the step that's easiest to skip and the one that determines
+   whether the whole system stays trustworthy — a system you don't review decays into a
+   junk drawer within a couple of weeks, and once you stop trusting it you're back to
+   holding things in your head.
+5. **Engage** — actually do the work, choosing what to act on right now by context (where
+   you are, what tools you have), time available, energy available, and priority, in that
+   rough order. GTD is deliberately agnostic about *what* to prioritize in the moment — its
+   job is making sure the full, trustworthy inventory of options is in front of you so the
+   choice is an informed one instead of "whatever's shouting loudest."
 
----
+## Distinctions that carry the whole system
 
-### 4. The 2‑Minute Rule
+- **Next action vs. project.** A project is anything requiring more than one step to
+  complete. Projects don't go on action lists — they sit on a project list and each one
+  points at exactly one live next action. Confusing the two is the most common way GTD
+  lists silently stop working: a project sitting on a next-action list just reads as a
+  vague blob nobody ever starts.
+- **Capture vs. process.** Capturing is fast and non-judgmental (get it out of your head).
+  Processing is the deliberate, one-item-at-a-time decision about what it is and where it
+  goes. Mixing the two — trying to decide what something means at the moment you think of
+  it — is why inboxes balloon: every item costs a decision instead of a two-second write-down.
+- **Someday/Maybe vs. Projects.** Someday/Maybe is not a project list in waiting — it's
+  explicitly *not committed to*. The distinction matters because a Projects list you're not
+  honest about (padding it with things you'd merely like to do) stops being a reliable
+  picture of your actual workload.
 
-If an action can be done in **≤ 2 minutes**, do it immediately.
+## The 2-minute rule
 
-- _Why it works_: Eliminates the “I’ll do it later” trap and keeps the system lean.
+If a next action takes less than about two minutes, do it immediately during processing
+rather than filing it. The logic isn't about the two minutes themselves — it's that the
+overhead of tracking a task (writing it down, organizing it, revisiting it, marking it
+done) exceeds the cost of just finishing it, so tracking it is pure waste.
 
----
-### 5. Contextual Lists (or “Contexts”)
+## What's actually useful as a working reference
 
-Group Next Actions by _where/what_ they need to be done:
-
-- **@home, @office, @computer, @phone, @errand, etc.**  
-    When you’re in a particular environment, open only the matching context list.
-
----
-### 5. The “In‑Progress” Lists
-
-- **“Someday‑Maybe”** – ideas that could become projects.
-- **“Next Actions”** – all actionable items.
-- **“Waiting‑For”** – delegated items.
-- **“Projects”** – multi‑step commitments.
-- **Calendar** – time‑specific actions (deadlines, meetings).
-
----
-
-### 5. Weekly Review (The “GTD Weekly Review”)
-
-1. **Empty the inbox** (collect).
-2. **Process everything** in your inbox, “Waiting‑For”, “Someday‑Maybe”.
-3. **Update Projects** – confirm next actions, adjust timelines.
-4. **Check Calendar** – verify you have no missed commitments.
-5. **Reset the next‑action lists** – ensure the most relevant tasks are front‑and‑center.
-
-_Result:_ A clear, actionable set of priorities for the week ahead.
-
----
-### 5. The “Context‑Based Doing”
-
-- **Focus on _What?_ + _Where?_**  
-    When you’re ready to work, pick the next action that fits the context (e.g., a phone call while you’re at the desk).
-- **The “Two‑Minute Review”** – check all lists to see if anything needs attention before you start your primary task.
-
----
-
-### 6. GTD in Action – a Typical Day
-
-1. **Morning** – Quick 5‑minute “brain dump” → move all items into the Inbox.
-2. **Mid‑morning** – Process the inbox (apply 2‑min rule, decide Next Actions).
-3. **During work** – Pull from the context‑specific Next Actions list; switch tasks only when the current one is truly finished.
-4. **End‑of‑day** – Empty the Inbox again; ensure no new items are left.
-5. **Weekly** – Run the full audit; refresh the system.
-
----
-
-### 7. Common Mistakes & Fixes
-
-|Mistake|Fix|
-|---|---|
-|**Leaving the Inbox full**|Empty it daily; use a physical or digital “Collect” tray.|
-|**Not defining “Next Action”**|Always ask “What is the next physical step?” even if it’s a simple click.|
-|**Mixing projects with Next Actions**|Keep a clear Projects list; each project must have at least one actionable next step.|
-|**Skipping the Weekly Review**|It’s the only time you get a _big‑picture_ view; treat it as a non‑negotiable meeting with yourself.|
-
----
-
-### 8. Bottom‑Line Takeaways
-
-|Takeaway|Practical Impact|
-|---|---|
-|_Externalize everything_|Your mind stays clear for strategic thinking.|
-|_Decide the next action immediately_|No “later” or “later‑later” traps.|
-|_Organize by context & priority_|Quickly find what to do next, no more “I’m not sure what to do.”|
-|_Review regularly_|Keeps your system accurate and your priorities honest.|
-|_Act on the most relevant next step_|Moves you forward without analysis paralysis.|
-
----
-
-### 9. Quick‑Start Cheat Sheet
-
-1. **Set up your GTD toolset** (Inbox, Next Actions, Projects, Waiting‑For, Someday‑Maybe).
-2. **Collect every incoming item** → move to the Inbox.
-3. **Process 2‑minute items immediately**; for others, decide “Action / Delay / Delegate / Eliminate.”
-4. **Add actionable items to Next Actions**; non‑actionable items go to the appropriate list.
-5. **Do** – use the context‑based approach; if you’re not sure, choose the “most appropriate” next action.
-6. **Review** – once a week, update all lists, check on waiting‑for, and refresh project next actions.
-
----
-
-**Getting Things Done** is not a set of arbitrary rules; it’s a _complete workflow_ that lets you:
-
-- Capture _all_ commitments reliably,
-- Decide _exactly_ what to do next,
-- Store that decision in the right place,
-- Review the system weekly, and
-- Act on the next step with confidence.
-
-Once you master the flow, the system “just works” and frees your mental bandwidth for creative, strategic work.
+- **The failure mode to watch for in my own lists is always the same one**: an item phrased
+  as an outcome ("sort out the homelab backup situation") rather than a next physical
+  action ("write the restic cron entry"). When a task has been sitting untouched for a
+  while, the fix is almost never motivation — it's that the next action was never actually
+  identified.
+- **The Weekly Review is the load-bearing habit, not the daily capture.** Capture is easy to
+  do reflexively; the review is the only place staleness gets caught, and it's the first
+  thing that gets skipped under time pressure — which is exactly when skipping it costs the
+  most trust in the system.
+- **Contexts are just a filter on the next-action list**, not a taxonomy to perfect. The
+  only reason to maintain them is to avoid re-reading actions you can't act on right now
+  (can't make calls at midnight, don't have the errand list at your desk).

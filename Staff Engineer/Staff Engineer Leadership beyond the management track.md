@@ -1,3 +1,15 @@
+---
+date: 2025-05-19
+type: reference
+repo: tech-book-notes
+origin: curated
+threads: [career, money, mindset]
+decisions:
+  - The financial track needs no change -- the existing FIRE approach already satisfies the Profit dimension of the forty-year-career frame
+open_loops:
+  - Networking, internal and external, is named as the personal gap in the forty-year-career frame and nothing has been done about it
+---
+
 Staff Engineer
 
 Acknowledgments

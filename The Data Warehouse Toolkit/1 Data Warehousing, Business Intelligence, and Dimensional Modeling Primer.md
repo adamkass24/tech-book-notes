@@ -1,3 +1,14 @@
+---
+date: 2025-11-13
+type: reference
+repo: tech-book-notes
+origin: curated
+threads: [learning, work]
+decisions:
+  - Data domains are drawn around business processes rather than departments, which is why they carry no reporting-structure mapping -- departments change, processes do not
+open_loops: []
+---
+
 Always consider the needs of the business and work our way backwards through logical and physical designs. Then come decisions about tech and tools.
 
 **Different Worlds of Data Capture and Data Analysis**

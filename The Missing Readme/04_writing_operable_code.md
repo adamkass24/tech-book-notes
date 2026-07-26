@@ -1,3 +1,15 @@
+---
+date: 2026-03-08
+type: reference
+repo: tech-book-notes
+origin: curated
+threads: [learning, work]
+decisions: []
+open_loops:
+  - The chapter links to a data classes note that is an empty file, so the immutability point it was meant to carry is unwritten
+  - Notes stop partway through the logging section, at INFO
+---
+
 - Operable code has built in protection, diagnostics, and controls.
 - Defensive programming - safe code takes advantage of compile-time validation to prevent runtime falures.
 	- Resilient code uses exception-handling best practices and handles failures gracefully

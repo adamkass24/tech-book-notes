@@ -1,3 +1,14 @@
+---
+date: 2026-07-26
+type: reference
+repo: tech-book-notes
+origin: curated
+threads: [learning]
+decisions: []
+open_loops:
+  - The chapter's stated goals include a KNN recommendation system and approximate solutions for hard problems, neither of which the notes below reach
+---
+
 Chapter 1 - ADD TITLE HERE
 - Goals
 	- Foundation for rest of the book

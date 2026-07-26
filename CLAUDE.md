@@ -10,18 +10,8 @@ Personal reading notes for books. Each book gets its own folder with notes, high
 
 ## What does NOT belong here
 
-Articles, tutorials, blog posts, documentation, and reference links are **not book notes** and should go to `~/repos/resume-portfolio` instead, organized by technology domain. If tab-triage or any agent routes an article URL here, that is a miscategorization — reroute it to resume-portfolio.
+This repo is books only — ISBN, publisher, full-length text. Articles, tutorials, blog posts, documentation, and reference links are **not book notes**; they go to `~/repos/resume-portfolio` instead, organized by technology domain. This applies equally to a human miscategorizing a note, `tab-triage analyze` scanning this file for routing hints, and anything landing in `captures/` (the external "tabs-triage" tool's inbox — should normally be empty). Process stray captures with the global `captures-triage` skill, which re-routes article captures to resume-portfolio and archives the sources to `captures/_archive/`.
 
-## Tab-triage routing
+## Frontmatter
 
-When `tab-triage analyze` scans this repo's CLAUDE.md for routing hints: **do not route articles here**. Only route items that are literally books (ISBN, publisher, full-length text). Everything else — tutorials, docs, blog posts, news, research papers — belongs in resume-portfolio.
-
-## Captures inbox
-
-`captures/` is an inbox for notes dispatched by the external "tabs-triage" tool. If anything lands here, it was likely miscategorized. Process with the global `captures-triage` skill — it will re-route article captures to resume-portfolio and archive the sources to `captures/_archive/`.
-
-## Structure
-
-- One folder per book, named after the book title
-- `Backlog.md` — books queued to read
-- `captures/` — tab-triage inbox (should normally be empty)
+Book notes are `origin: curated`, never `authored` — reading and condensing a source, however carefully, doesn't clear the `authored` bar. See `personal/_meta/frontmatter-contract.md`. (This repo is where that distinction in the contract was settled, after the first backfill assumed the opposite.)

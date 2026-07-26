@@ -1,3 +1,14 @@
+---
+date: 2026-01-18
+type: reference
+repo: tech-book-notes
+origin: captured
+threads: [learning, work]
+decisions: []
+open_loops:
+  - The chapter 6 material is a pasted assistant thread rather than reading notes, so nothing in it has been checked against the book or reduced to Adam's own words
+---
+
 Order Management Bus Matrix
 Order Transactions
 	Fact Normalization

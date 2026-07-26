@@ -1,3 +1,14 @@
+---
+date: 2025-09-26
+type: reference
+repo: tech-book-notes
+origin: captured
+threads: [mindset, work]
+decisions: []
+open_loops:
+  - The file is a generated book summary rather than reading notes, so none of it has been read against the book or turned into a practice
+---
+
 ### 1. The Core Philosophy
 
 - **“Your mind is for big‑picture thinking.”**  

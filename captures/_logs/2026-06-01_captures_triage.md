@@ -1,3 +1,13 @@
+---
+date: 2026-06-01
+type: capture-log
+repo: tech-book-notes
+threads: [learning]
+decisions:
+  - Captures landing in tech-book-notes are skill-building articles rather than book notes, so all 44 were routed to resume-portfolio by technology domain and only the sources were archived here
+open_loops: []
+---
+
 # Captures Triage — Filing Log
 
 *Triaged and filed 2026-06-01. 44 captures (42 from 2026-05-30 sweep + 2 from 2026-05-28) routed to resume-portfolio by domain, not filed into tech-book-notes. All sources archived here.*

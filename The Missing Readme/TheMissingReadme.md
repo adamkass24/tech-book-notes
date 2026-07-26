@@ -1,3 +1,15 @@
+---
+date: 2026-06-19
+type: reference
+repo: tech-book-notes
+origin: curated
+threads: [career, learning]
+decisions: []
+open_loops:
+  - Front-loading a few months of learning on a new domain was never actually done, and the notes flag it as still owed
+  - The book is only read through Working with Code -- the remaining twelve chapters are a bare outline
+---
+
 
 	- Learning to Learn
 		- Front-Load Your Learning
